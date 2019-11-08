@@ -1,0 +1,12 @@
+name: reactive-amber
+version: 0.1.0
+
+authors:
+   - Sean Watters <sean@watters.io>
+
+description: |
+   A React recipe for the Amber framework.
+
+license: MIT
+
+generator_version: 1

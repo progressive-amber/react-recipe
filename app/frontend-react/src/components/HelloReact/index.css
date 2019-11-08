@@ -1,0 +1,11 @@
+.hello-react {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  height: 25px;
+}
+.react-text {
+  font-size: 20px;
+  color: #66ccff;
+  text-decoration: none;
+}

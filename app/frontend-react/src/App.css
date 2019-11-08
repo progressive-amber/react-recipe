@@ -1,0 +1,17 @@
+#root {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 40px;
+  font-family: Dosis, Open Sans, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#amber-logo {
+  width: 225px;
+}
+#react-logo {
+  width: 150px;
+  position: relative;
+  bottom: 205px;
+  margin-bottom: -100px;
+}
