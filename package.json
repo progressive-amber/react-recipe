@@ -4,7 +4,7 @@
   "description": "A React recipe for the Amber framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/progressive-amber/reactive-amber.git"
+    "url": "git+https://github.com/progressive-amber/react-recipe.git"
   },
   "keywords": [
     "react",
@@ -16,9 +16,9 @@
   "author": "Sean Watters",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/progressive-amber/react-amber/issues"
+    "url": "https://github.com/progressive-amber/react-recipe/issues"
   },
-  "homepage": "https://github.com/progressive-amber/react-amber#readme",
+  "homepage": "https://github.com/progressive-amber/react-recipe#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
