@@ -16,7 +16,7 @@
 
 # Reactive Amber
 
-The goal of the **reactive-amber** recipe is to quickly provide a full stack solution that takes full advantages of the best parts of development using a frontend framework (in the way it was designed to be used), with a powerful backend API.
+The goal of the **Reactive Amber** recipe is to quickly provide a full stack solution that takes full advantages of the best parts of development using a frontend framework (in the way it was designed to be used), with a powerful backend API.
 
 The intention is to break away from the traditional Rails-y MVC model, without requiring developers to write completely separate frontend/backend codebases.
 
@@ -24,7 +24,7 @@ The intention is to break away from the traditional Rails-y MVC model, without r
 
 ## Creating a Project
 
-To create your project with the **reactive-amber** recipe, you will need to run the following command:
+To create your project with the **Reactive Amber** recipe, you will need to run the following command:
 
 ```
 amber new <your app name> -r progressive-amber/reactive-amber
