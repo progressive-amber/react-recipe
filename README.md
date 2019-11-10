@@ -27,13 +27,13 @@ The intention is to break away from the traditional Rails-y MVC model, without r
 To create your project with the **Reactive Amber** recipe, you will need to run the following command:
 
 ```
-amber new <your app name> -r progressive-amber/reactive-amber
+amber new <your app name> -r progressive-amber/react-recipe
 ```
 
 You may also want to specify your database (default is Postgres) by adding the `-d` tag:
 
 ```
-amber new <your app name> -r progressive-amber/reactive-amber -d <pg | mysql | sqlite>
+amber new <your app name> -r progressive-amber/react-recipe -d <pg | mysql | sqlite>
 ```
 
 Once your app has been created, you will want to run
