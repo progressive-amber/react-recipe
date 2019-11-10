@@ -101,6 +101,9 @@ For any questions specific to the [React](https://reactjs.org/) or [Amber](https
 * [React](https://reactjs.org/docs/getting-started.html)
 * [Amber](https://docs.amberframework.org/amber/)
 
+<br>
+<br>
+
 ## DevTools
 
 When developing React applications, it is highly recommended to use the [React devtools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html). Currently only FireFox and Chrome have support for the devtools extension. Their links are provided below:
@@ -111,6 +114,8 @@ When developing React applications, it is highly recommended to use the [React d
 You can also use the standalone **react-devtools** for any enviornment:
 
 * Remote: [devtools](https://www.npmjs.com/package/react-devtools)
+
+<br>
 
 ## License
 
