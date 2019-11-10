@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/Version-0.1.0-darkgrey.svg" ></a>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/Version-v0.1.0-darkgrey.svg" ></a>
     <a href="https://amberframework.org/"><img src="https://img.shields.io/badge/using-amber_framework-black.svg" ></a>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-lightblue.svg" ></a>
 </p>
@@ -75,15 +75,14 @@ With this recipe, we have modularized the file structure to isolate your React f
 |- spec
 |- src
     |- controllers
-        |- application_controller.cr
-        |- roots_controller.cr    // Controller for the primary route.
+        |- application_controller.cr   // Rendering method for root in application_controller.cr
 
     |- locales
     |- models
     |- views
         |- layouts
-        |- roots
-            |- root.slang   // Location of the #root <div> React will render to.
+        |- application
+            |- application.slang   // Location of the #root <div> React will render to.
 
 ```
 
@@ -91,13 +90,7 @@ With this recipe, we have modularized the file structure to isolate your React f
 
 ## CLI
 
-The scaffold, controller and model generators are currently a work in progress. The scaffold generator can be used currently but the routes need to be set manually in the `config/routes.cr` file to drop `edit` and `new` views. i.e:
-
-```
-resources "<pluralized route name>", <route name>Controller, except: [:edit, :new]
-```
-
-The README will be updated as soon as the generators have full functionality.
+This section needs an update. In the meantime, see CLI [docs](https://www.npmjs.com/package/@progressive-amber/react-amber-cli).
 
 <br>
 
