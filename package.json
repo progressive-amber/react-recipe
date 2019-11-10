@@ -23,7 +23,7 @@
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-react": "^7.6.3",
-    "@progressive-amber/react-amber-cli": "^0.1.0",
+    "@progressive-amber/react-amber-cli": "^0.1.1",
     "babel-loader": "^8.0.5",
     "css-loader": "^0.28.11",
     "file-loader": "^1.1.11",
