@@ -102,7 +102,6 @@ For any questions specific to the [React](https://reactjs.org/) or [Amber](https
 * [Amber](https://docs.amberframework.org/amber/)
 
 <br>
-<br>
 
 ## DevTools
 
